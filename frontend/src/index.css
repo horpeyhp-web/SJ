@@ -80,7 +80,7 @@ code {
     body {
         @apply bg-background text-foreground;
     }
-<<<<<<< HEAD
+
 =======
 }
 
@@ -114,7 +114,7 @@ code {
         border-top-color: inherit;
         border-bottom-color: inherit;
     }
->>>>>>> 7400b679f3f9c04d95401d077b5ed07e80bfdabc
+
 }
 
 @layer base {

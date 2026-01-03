@@ -159,7 +159,4 @@ export const coreValues = [
     icon: 'Zap'
   }
 ];
-<<<<<<< HEAD
 
-=======
->>>>>>> 7400b679f3f9c04d95401d077b5ed07e80bfdabc
